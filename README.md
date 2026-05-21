@@ -20,7 +20,7 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 ## 📌 Featured Projects
 
 <a href="https://github.com/nguyenhuydung3007/rv32i-axi-soc/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhuydung3007&repo=rv32i-axi-soc&theme=radical&cache_seconds=1&v=2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhuydung3007&repo=rv32i-axi-soc&theme=radical&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/nguyenhuydung3007/riscv-rv32i-fpga-soc/">
