@@ -49,11 +49,6 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 
 ---
 
-## 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuydung3007&theme=tokyo-night)](https://github.com/nguyenhuydung3007)
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
