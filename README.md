@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dung Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Huy Dung</h1>
 <h3 align="center">
-Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
+Digital IC Design | FPGA | RISC-V SoC | RTL Design
 </h3>
 
 ---
