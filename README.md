@@ -17,9 +17,14 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
 
 ## Languages and Tools
 
+## Languages and Tools
+
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,vscode" />
+<img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
 
