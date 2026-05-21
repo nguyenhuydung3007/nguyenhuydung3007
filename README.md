@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nguyen Huy Dung</h1>
-<h3 align="center">
-Digital IC Design | FPGA | RISC-V SoC | RTL Design
-</h3>
+# WELCOME TO MY PAGE 👋👋👋
+
+My name is Nguyen Huy Dung.  
+I am interested in the following topics:
+
+- Digital IC Design
+- FPGA Design
+- RISC-V SoC
+- RTL Design
+- AXI4-Lite Architecture
+- Embedded Systems
 
 ---
 
-## About Me
-
-- Currently working on RISC-V SoC with AXI4-Lite
-- Learning Digital IC Design & FPGA Architecture
-- Interested in RTL Design, Embedded Systems
-- FPGA Platform: Intel DE10-Lite
-- Email: nhdung0705@gmail.com
-
----
-
-## Languages and Tools
+## 🛠 Languages and Tools
 
 <p align="left">
 
@@ -26,74 +23,81 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Design
 
 </p>
 
-### HDL / FPGA
-- Verilog
-- Quartus Prime
-- ModelSim
-- AXI4-Lite
-- RISC-V
+---
+
+## 📫 How to reach me:
+
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenhuydung3007)
 
 ---
 
-## Featured Projects
-
-### RISC-V SoC AXI4-Lite
-- RV32IM CPU Core
-- AXI Interconnect
-- UART / GPIO / Timer
-- FPGA implementation on DE10-Lite
-
-### UART Controller Verilog
-- Baudrate Generator
-- TX/RX FSM
-- Testbench Verification
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rv32i-axi-soc&show_icons=true&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=nguyenhuydung3007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuydung3007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## GitHub Streak
+## 📌 Featured Projects
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<a href="https://github.com/nguyenhuydung3007/rv32i-axi-soc">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuydung3007&repo=rv32i-axi-soc&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/nguyenhuydung3007/debounce-fsm-verilog">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuydung3007&repo=debounce-fsm-verilog&theme=radical" />
+</a>
+
+<a href="https://github.com/nguyenhuydung3007/fifo-fpga-verilog">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuydung3007&repo=fifo-fpga-verilog&theme=gruvbox" />
+</a>
+
+<a href="https://github.com/nguyenhuydung3007/uart-controller-verilog">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuydung3007&repo=uart-controller-verilog&theme=onedark" />
+</a>
+
+<a href="https://github.com/nguyenhuydung3007/vga-controller-verilog">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuydung3007&repo=vga-controller-verilog&theme=cobalt" />
+</a>
+
+<a href="https://github.com/nguyenhuydung3007/riscv-rv32i-single-cycle-core">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuydung3007&repo=riscv-rv32i-single-cycle-core&theme=synthwave" />
+</a>
+
+<a href="https://github.com/nguyenhuydung3007/riscv-rv32i-fpga-soc">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuydung3007&repo=riscv-rv32i-fpga-soc&theme=highcontrast" />
+</a>
 
 </p>
 
 ---
 
-## Contribution Graph
+## 🔥 GitHub Streak
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<p align="center">
 
----
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Connect with me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<img src="https://streak-stats.demolab.com?user=nguyenhuydung3007&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuydung3007&theme=tokyo-night)](https://github.com/nguyenhuydung3007)
