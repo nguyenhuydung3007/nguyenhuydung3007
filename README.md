@@ -9,7 +9,7 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Design
 
 - Currently working on RISC-V SoC with AXI4-Lite
 - Learning Digital IC Design & FPGA Architecture
-- Interested in RTL Design, CNN Accelerator, Embedded Systems
+- Interested in RTL Design, Embedded Systems
 - FPGA Platform: Intel DE10-Lite
 - Email: nhdung0705@gmail.com
 
@@ -48,18 +48,13 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Design
 - TX/RX FSM
 - Testbench Verification
 
-### CNN Accelerator FPGA
-- BRAM Optimization
-- AXI Interface
-- Lightweight CNN Accelerator
-
 ---
 
 ## GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rv32i-axi-soc&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
