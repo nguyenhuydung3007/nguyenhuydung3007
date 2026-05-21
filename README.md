@@ -14,7 +14,7 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 
 ---
 
-![Dung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenhuydung3007&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+## 📌 Featured Projects
 
 <a href="https://github.com/nguyenhuydung3007/rv32i-axi-soc/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhuydung3007&repo=rv32i-axi-soc&theme=radical" />
