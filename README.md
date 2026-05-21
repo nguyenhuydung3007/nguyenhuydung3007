@@ -19,7 +19,7 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 
 ## 📌 Featured Projects
 
-"<a href="https://github.com/nguyenhuydung3007/rv32i-axi-soc/">
+<a href="https://github.com/nguyenhuydung3007/rv32i-axi-soc/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhuydung3007&repo=rv32i-axi-soc&theme=radical&cache_seconds=1" />
 </a>
 
@@ -45,7 +45,7 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 
 <a href="https://github.com/nguyenhuydung3007/uart-controller-verilog/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhuydung3007&repo=uart-controller-verilog&theme=dark&cache_seconds=1" />
-</a>"
+</a>
 
 ---
 
