@@ -44,3 +44,8 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhuydung3007&repo=uart-controller-verilog&theme=dark" />
 </a>
 
+---
+
+## 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuydung3007&theme=tokyo-night)](https://github.com/nguyenhuydung3007)
+
