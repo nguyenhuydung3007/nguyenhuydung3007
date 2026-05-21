@@ -3,9 +3,14 @@
 My name is Nguyen Huy Dung.  
 I am interested in the following topics: Digital IC Design, FPGA Design, RTL Design, RISC-V SoC, AXI4-Lite Architecture, Embedded Systems.<br>
 
-## 📫 How to reach me:
+## 🛠 Languages and Tools
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenhuydung3007)
+<p align="left">
+
+<img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 ---
 
