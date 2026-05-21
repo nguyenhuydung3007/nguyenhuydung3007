@@ -5,17 +5,17 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working on RISC-V SoC with AXI4-Lite
-- 🌱 Learning Digital IC Design & FPGA Architecture
-- 💡 Interested in RTL Design, CNN Accelerator, Embedded Systems
-- 🛠 FPGA Platform: Intel DE10-Lite
-- 📫 Email: your_email@gmail.com
+- Currently working on RISC-V SoC with AXI4-Lite
+- Learning Digital IC Design & FPGA Architecture
+- Interested in RTL Design, CNN Accelerator, Embedded Systems
+- FPGA Platform: Intel DE10-Lite
+- Email: nhdung0705@gmail.com
 
 ---
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 <p align="left">
 
