@@ -17,8 +17,6 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
 
 ## Languages and Tools
 
-## Languages and Tools
-
 <p align="left">
 
 <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge" />
@@ -30,7 +28,6 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
 
 ### HDL / FPGA
 - Verilog
-- SystemVerilog
 - Quartus Prime
 - ModelSim
 - AXI4-Lite
@@ -38,27 +35,27 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 RISC-V SoC AXI4-Lite
+### RISC-V SoC AXI4-Lite
 - RV32IM CPU Core
 - AXI Interconnect
 - UART / GPIO / Timer
 - FPGA implementation on DE10-Lite
 
-### 🔹 UART Controller Verilog
+### UART Controller Verilog
 - Baudrate Generator
 - TX/RX FSM
 - Testbench Verification
 
-### 🔹 CNN Accelerator FPGA
+### CNN Accelerator FPGA
 - BRAM Optimization
 - AXI Interface
 - Lightweight CNN Accelerator
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -70,7 +67,7 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -80,19 +77,19 @@ Digital IC Design | FPGA | RISC-V SoC | RTL Engineer
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🌐 Connect with me
+## Connect with me
 
 <p align="left">
 
