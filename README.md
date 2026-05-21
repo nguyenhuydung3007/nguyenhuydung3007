@@ -11,6 +11,9 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-Quartus-blue?style=for-the-badge" />
+
+</p>
 
 ---
 
