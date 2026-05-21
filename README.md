@@ -1,4 +1,3 @@
-```md
 ### WELCOME TO MY PAGE 👋👋👋
 
 My name is Nguyen Huy Dung.  
@@ -39,4 +38,3 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 <a href="https://github.com/nguyenhuydung3007/riscv-rv32i-fpga-soc/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhuydung3007&repo=riscv-rv32i-fpga-soc&theme=synthwave" />
 </a>
-```
