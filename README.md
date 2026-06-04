@@ -49,9 +49,5 @@ I am interested in the following topics: Digital IC Design, FPGA Design, RTL Des
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nguyenhuydung3007&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
 
