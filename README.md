@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
 My name is Nguyen Huy Dung.  
-I am interested in the following topics: Digital IC Design, FPGA Design, RTL Design, RISC-V SoC, AXI4-Lite Architecture, Embedded Systems.<br>
+I am interested in the following topics: Digital IC Design, RTL Design, RISC-V SoC, Embedded Systems.<br>
 
 ## 🛠 Languages and Tools
 
